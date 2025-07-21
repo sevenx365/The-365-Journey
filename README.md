@@ -8,7 +8,7 @@ Selamat Datang Di Repositori Dokumentasi PerJalanan Saya! Repositori Ini Adalah 
 
 ### 👨‍💻 **Tentang Saya**
 
-Halo! Saya **[TULIS NAMA LENGKAP KAMU DI SINI]**, Seorang Pembelajar Teknologi Yang Punya Antusiasme Tinggi Terhadap Pemecahan Masalah. Saya Percaya Bahwa Penguasaan Lintas Disiplin Adalah Kunci Untuk Inovasi Di Masa Depan. Perjalanan Ini Adalah Bukti Komitmen Dan Disiplin Saya Untuk Bertumbuh Dari Nol Menjadi Profesional Yang Siap Berkontribusi.
+Halo! Saya **FAI**, Seorang Pembelajar Teknologi Yang Punya Antusiasme Tinggi Terhadap Pemecahan Masalah. Saya Percaya Bahwa Penguasaan Lintas Disiplin Adalah Kunci Untuk Inovasi Di Masa Depan. Perjalanan Ini Adalah Bukti Komitmen Dan Disiplin Saya Untuk Bertumbuh Dari Nol Menjadi Profesional Yang Siap Berkontribusi.
 
 ---
 
