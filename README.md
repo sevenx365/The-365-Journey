@@ -1,7 +1,6 @@
 # The-365-Journey
 
-###### 🔥 PerJalanan Belajar 3 Bidang:
-AI, Crypto & CyberSecurity 🔥
+#### 🔥 PerJalanan Belajar 3 Bidang: AI, Crypto & CyberSecurity 🔥
 
 Selamat Datang Di Repositori Dokumentasi PerJalanan Saya! Repositori Ini Adalah "Buku Harian" Publik Saya Dalam Mempelajari Tiga Bidang Teknologi Paling Menarik Secara Intensif Selama Satu Tahun, Dengan Tujuan Menjadi Profesional Di Masing-Masing Bidang.
 
