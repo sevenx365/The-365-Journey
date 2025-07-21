@@ -67,90 +67,86 @@ Ini Adalah Kumpulan Tools Yang Saya Gunakan Dan Dalami Selama PerJalanan Ini:
 </details>
 
 <details>
-<summary>💹 **Crypto Analyst (Analis Kripto)**</summary>
+<summary>💹 Crypto Analyst</summary>
 <br>
-
-**Mindset:** "Analis Kuantitatif" - Pemikir strategis yang nyaman dengan data, angka, dan pasar yang bergerak cepat.
 
 #### 🎓 Fondasi Pengetahuan & Keahlian Inti
 **Analisis Proyek:**
-* **Membaca Whitepaper:** Membedah dokumen teknis dan visi sebuah proyek.
-* **Evaluasi Tim & Komunitas:** Menyelidiki rekam jejak tim dan aktivitas komunitas di Twitter/Discord.
+* **MemBaca Whitepaper:** MemBedah Dokumen Teknis Dan Visi Sebuah Proyek.
+* **Evaluasi Tim & Komunitas:** Menyelidiki Rekam Jejak Tim Dan Aktivitas Komunitas Di X(Twitter)/Discord/Telegram/Github/Reddit/Medium/Mirror.xyz.
 
 **Tokenomics (Ekonomi Token):**
-* **Suplai & Distribusi:** Memahami jumlah token, siapa yang memegang, dan jadwal rilisnya.
-* **Utilitas & Value Accrual:** Apa fungsi token tersebut dan bagaimana nilainya bisa bertambah.
+* **Suplai & Distribusi:** Memahami Jumlah Token, Siapa Yang Memegang, Dan Jadwal RilisNya.
+* **Utilitas & Value Accrual:** Apa Fungsi Token TerSebut Dan BagaiMana NilaiNya Bisa BerTambah.
 
-**Teknologi Blockchain:**
-* **Konsep Dasar:** Paham cara kerja blockchain, PoW vs PoS.
-* **Smart Contracts:** Memahami logika dasar kontrak pintar, terutama yang ditulis di **Solidity**.
+**Teknologi BlockChain:**
+* **Konsep Dasar:** Paham Cara Kerja BlockChain, PoW vs PoS.
+* **Smart Contracts:** Memahami Logika Dasar Smart Contracts, TerUtama Yang DiTulis Di **Solidity**.
 
 #### 💻 Bahasa Pemrograman & Kueri
-* **SQL:** **Wajib Dikuasai.** Bahasa utama untuk menarik data dari blockchain menggunakan platform seperti **Dune Analytics**.
-* **Python:** **Sangat Penting.** Untuk analisis data kuantitatif menggunakan library seperti **Pandas** dan **web3.py**.
-* **Solidity:** Kemampuan untuk membaca dan memahami kode (bukan harus menjadi developer) adalah keuntungan besar.
+* **SQL:** **Wajib DiKuasai.** Bahasa Utama Untuk Menarik Data Dari BlockChain Menggunakan Platform Seperti **Dune Analytics**.
+* **Python:** **Sangat Penting.** Untuk Analisis Data Kuantitatif Menggunakan Library Seperti **pandas** Dan **web3.py**.
+* **Solidity:** Kemampuan Untuk MemBaca Dan Memahami Kode (Bukan Harus MenJadi Developer) Adalah Keuntungan Besar.
 
 #### 🛠️ Perangkat & Platform
 * **Platform Analitik On-Chain:**
-    * **Dune Analytics:** **Wajib.** Untuk membuat dashboard analisis sendiri dengan SQL.
-    * **Nansen:** Untuk melacak pergerakan dana dari *whale* dan *smart money*.
-    * **Glassnode:** Untuk metrik kesehatan jaringan tingkat makro.
-* **Alat Pendukung:**
-    * **TradingView:** Untuk analisis teknikal grafik harga.
-    * **CoinGecko / CoinMarketCap:** Untuk data pasar dasar.
-    * **Messari:** Untuk laporan riset mendalam.
+    * **Dune Analytics:** **Wajib.** Untuk MemBuat Dashboard Analisis Sendiri Dengan SQL.
+    * **Nansen:** Untuk MeLacak PerGerakan Dana Dari *Whale* Dan *Smart Money*.
+    * **Glassnode:** Untuk Metrik Kesehatan Jaringan Tingkat Makro.
+* **Alat PenDukung:**
+    * **TradingView:** Untuk Analisis Teknikal Grafik Harga.
+    * **CoinGecko / CoinMarketCap:** Untuk Data Pasar Dasar.
+    * **Messari:** Untuk Laporan Riset MenDalam.
 
 #### 📜 Pendidikan & Sertifikasi
-* **Pendidikan Formal:** S1 Keuangan, Ekonomi, Ilmu Komputer, atau Ilmu Data.
+* **Pendidikan Formal:** S1 Keuangan, Ekonomi, Ilmu Komputer, Atau Ilmu Data.
 * **Sertifikasi Profesional:**
-    * **CFA (Chartered Financial Analyst):** Sangat dihargai dari keuangan tradisional.
-    * **CCFE (Certified Crypto Finance Expert):** Sertifikasi modern yang sangat relevan.
+    * **CFA (Chartered Financial Analyst):** Sangat DiHargai Dari Keuangan Tradisional.
+    * **CCFE (Certified Crypto Finance Expert):** Sertifikasi Modern Yang Sangat Relevan.
 
 #### 🚀 Proyek Portofolio (Wajib Ada)
-* Membuat dan mempublikasikan dashboard analisis di Dune Analytics.
-* Menulis laporan riset mendalam tentang sebuah protokol kripto dan mempublikasikannya di Medium/Substack.
-* Melakukan *backtesting* sebuah strategi perdagangan menggunakan Python dan data historis.
+* MemBuat Dan MemPublikasiKan Dashboard Analisis Di Dune Analytics.
+* MeNulis Laporan Riset MenDalam Tentang Sebuah Protokol Kripto Dan MemPublikasikanNya Di Medium/Substack.
+* Melakukan *BackTesting* Sebuah Strategi PerDagangan Menggunakan Python Dan Data Historis.
 
 </details>
 
 <details>
-<summary>🕵️ **Reverse Engineer (Insinyur Rekayasa Balik)**</summary>
+<summary>🕵️ Reverse Engineer</summary>
 <br>
-
-**Mindset:** "Detektif Digital" - Pemecah teka-teki yang sabar, teliti, dan suka membongkar sistem kompleks untuk menemukan kebenaran.
 
 #### 🎓 Fondasi Pengetahuan & Keahlian Inti
 * **Arsitektur Komputer:**
-    * **Wajib Paham:** Cara kerja CPU **x86/x64** (PC) dan **ARM** (Mobile), register, dan stack.
+    * **Wajib Paham:** Cara Kerja CPU **x86/x64** (PC) Dan **ARM** (Mobile), Register, Dan Stack.
 * **Internal Sistem Operasi:**
-    * **Wajib Paham:** Cara kerja **Windows** dan **Linux** dalam mengelola memori, proses, dan *system calls*.
+    * **Wajib Paham:** Cara Kerja **Windows** Dan **Linux** Dalam Mengelola Memori, Proses, Dan *System Calls*.
 * **Format File Executable:**
-    * **Wajib Paham:** Struktur file **PE** (Portable Executable) di Windows dan **ELF** di Linux.
+    * **Wajib Paham:** Struktur File **PE** (Portable Executable) Di Windows Dan **ELF** Di Linux.
 
 #### 💻 Bahasa Pemrograman
-* **Bahasa Assembly (x86/x64, ARM):** **MUTLAK & WAJIB.** Ini adalah bahasa utama yang akan Anda baca setiap hari.
-* **C/C++:** **Wajib.** Untuk memahami bagaimana kode tingkat tinggi diterjemahkan menjadi Assembly oleh compiler.
-* **Python:** **Sangat Penting.** Untuk menulis skrip otomatisasi, membuat plugin untuk tools, dan *exploit development*.
+* **Bahasa Assembly (x86/x64, ARM):** **MUTLAK & WAJIB.** Ini Adalah Bahasa Utama Yang Akan Anda Baca Setiap Hari.
+* **C/C++:** **Wajib.** Untuk Memahami BagaiMana Kode Tingkat Tinggi DiTerjemahKan MenJadi Assembly Oleh Compiler.
+* **Python:** **Sangat Penting.** Untuk Menulis Skrip Otomatisasi, MemBuat Plugin Untuk Tools, Dan *Exploit Development*.
 
-#### 🛠️ Perangkat Kunci (Tools of the Trade)
+#### 🛠️ Perangkat Kunci (Tools Of The Trade)
 * **Disassembler / Decompiler:**
-    * **Ghidra:** **Wajib.** Gratis, *open source*, sangat kuat, dan dikembangkan oleh NSA. Titik awal terbaik.
-    * **IDA Pro:** Standar industri, sangat kuat tapi sangat mahal.
+    * **Ghidra:** **Wajib.** Gratis, *Open Source*, Sangat Kuat, Dan DiKembangkan Oleh NSA. Titik Awal TerBaik.
+    * **IDA Pro:** Standar Industri, Sangat Kuat Tapi Sangat Mahal.
 * **Debugger:**
-    * **Linux:** **GDB** (dengan ekstensi seperti GEF atau Pwndbg).
-    * **Windows:** **WinDbg** (untuk level OS), **x64dbg** (untuk aplikasi *user-mode*).
-* **Alat Bantu:** **ret-sync** (untuk sinkronisasi antara debugger dan disassembler).
+    * **Linux:** **GDB** (Dengan Ekstensi Seperti GEF Atau Pwndbg).
+    * **Windows:** **WinDbg** (Untuk Level OS), **x64dbg** (Untuk Aplikasi *User-Mode*).
+* **Alat Bantu:** **ret-sync** (Untuk Sinkronisasi Antara Debugger Dan Disassembler).
 
 #### 📜 Pendidikan & Sertifikasi
-* **Pendidikan Formal:** S1 Ilmu Komputer dengan spesialisasi Keamanan Siber.
-* **Sertifikasi Elite (Sangat Dihargai):**
-    * **GREM (GIAC Reverse Engineering Malware):** Standar emas untuk analisis malware.
-    * **Sertifikasi OffSec:** Seperti **OSCE** atau **OSEP** yang membuktikan kemampuan *exploit development*.
+* **Pendidikan Formal:** S1 Ilmu Komputer Dengan Spesialisasi Keamanan Siber.
+* **Sertifikasi Elite (Sangat DiHargai):**
+    * **GREM (GIAC Reverse Engineering Malware):** Standar Emas Untuk Analisis Malware.
+    * **Sertifikasi OffSec:** Seperti **OSCE** Atau **OSEP** Yang MemBuktiKan Kemampuan *Exploit Development*.
 
 #### 🚀 Proyek Portofolio (Wajib Ada)
-* Berpartisipasi aktif dalam kompetisi **Capture The Flag (CTF)**, khususnya kategori **Reverse Engineering** dan **pwn**.
-* **MENULIS WRITE-UP!** Ini adalah hal terpenting. Setelah menyelesaikan tantangan CTF, tulis laporan detail langkah-demi-langkah tentang cara Anda menyelesaikannya dan publikasikan di blog/GitHub.
-* Melakukan analisis sederhana pada sampel malware (di lingkungan aman) dan mendokumentasikan temuannya.
+* BerPartisipasi Aktif Dalam Kompetisi **Capture The Flag (CTF)**, Khususnya Kategori **Reverse Engineering** Dan **pwn**.
+* **MENULIS WRITE-UP!** Ini Adalah Hal TerPenting. Setelah Menyelesaikan Tantangan CTF, Tulis Laporan Detail Langkah-Demi-Langkah Tentang Cara Anda Menyelesaikannya Dan PublikasiKan Di Blog/GitHub.
+* Melakukan Analisis Sederhana Pada Sampel Malware (Di Lingkungan Aman) Dan MenDokumentasiKan Temuannya.
 
 </details>
 
@@ -161,6 +157,7 @@ Ini Adalah Kumpulan Tools Yang Saya Gunakan Dan Dalami Selama PerJalanan Ini:
 Repositori Ini DiSusun BerDasarKan Fase Dan Minggu PemBelajaran:
 
 The-365-Journey/
+<br>
 ├── 🤖-AI-Robotics/
 │   ├── Week-01_Python-Fundamentals/
 │   ├── Week-04_Advanced-ML-Models/
