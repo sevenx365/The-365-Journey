@@ -158,23 +158,38 @@ Repositori Ini DiSusun BerDasarKan Fase Dan Minggu PemBelajaran:
 
 The-365-Journey/
 <br>
-├── 🤖-AI-Robotics/
+├── 🤖-Humanoid Robotics Engineering/
+<br>
 │   ├── Week-01_Python-Fundamentals/
+<br>
 │   ├── Week-04_Advanced-ML-Models/
+<br>
 │   └── Week-07_Project-Robotic-Arm/
+<br>
 │   └── Week-10_Portfolio-Humanoid-RL/
+<br>
 │
 ├── 🪙-Crypto-Blockchain/
+<br>
 │   ├── Week-02_Blockchain-Fundamentals/
+<br>
 │   ├── Week-05_DeFi-Analysis/
+<br>
 │   └── Week-08_Project-Portfolio-Dashboard/
+<br>
 │   └── Week-11_Portfolio-Research-Report/
+<br>
 │
 ├── 🛡️-Cybersecurity-Reverse-Engineering/
+<br>
 │   ├── Week-03_Linux-RE-Tools/
+<br>
 │   ├── Week-06_Exploit-Development/
+<br>
 │   └── Week-09_Project-CTF-Writeups/
+<br>
 │   └── Week-12_Portfolio-Protocol-RE/
+<br>
 │
 └── assets/
 └── (Untuk Menyimpan Gambar & GIF)
