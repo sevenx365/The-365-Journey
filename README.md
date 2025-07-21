@@ -21,7 +21,7 @@ Halo! Saya FAI, Seorang Anak Umur 16 Tahun Yang Suka MemPelajari AI Crypto Dan J
 Ini Adalah Kumpulan Tools Yang Saya Gunakan Dan Dalami Selama PerJalanan Ini:
 
 <details>
-<summary>🤖 **Humanoid Robotics Engineer (Insinyur Robotika Humanoid)**</summary>
+<summary>🤖 **Humanoid Robotics Engineering**</summary>
 <br>
 
 **Mindset:** "Pembangun Sistem Fisik" - Suka melihat kode menghasilkan gerakan fisik dan mampu mengintegrasikan banyak disiplin ilmu.
