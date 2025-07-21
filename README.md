@@ -8,9 +8,9 @@ Selamat Datang Di Repositori Dokumentasi PerJalanan Saya! Repositori Ini Adalah 
 
 ### 👨‍💻 **Tentang Saya**
 
-![Statistik GitHub sevenx365](https://github-readme-stats.vercel.app/api?username=sevenx365&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+[![Statistik GitHub SevenX365](https://github-readme-stats.vercel.app/api?username=sevenx365&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/sevenx365)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevenx365&layout=compact&langs_count=8&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevenx365&layout=compact&langs_count=8&theme=dark)](https://github.com/sevenx365)
 
 Halo! Saya FAI, Seorang Anak Umur 16 Tahun Yang Suka MemPelajari Tentang AI Crypto Dan Juga CyberSecurity Yang Punya Antusiasme Tinggi Terhadap Pemecahan Masalah. Saya Percaya Bahwa Penguasaan Lintas Disiplin Adalah Kunci Untuk Inovasi Di Masa Depan. Perjalanan Ini Adalah Bukti Komitmen Dan Disiplin Saya Untuk Bertumbuh Dari Nol Menjadi Profesional Yang Siap Berkontribusi.
 
