@@ -2,7 +2,7 @@
 
 AI & Crypto & CyberSecurity
 
-Selamat Datang Di Repositori Dokumentasi PerJalanan Saya! Repositori Ini Adalah "Buku Harian" Publik Saya Dalam MemPelajari Tiga Bidang Teknologi Yaitu AI Crypto Dan CyberSecurity Selama Satu Tahun, Dengan Tujuan MenJadi Profesional Di Masing-Masing Bidang.
+Selamat Datang Di Repositori Dokumentasi PerJalanan Saya! Repositori Ini Adalah "Buku Harian" Publik Saya Dalam MemPelajari Tiga Bidang Teknologi Yaitu AI Crypto Dan Juga CyberSecurity Selama Satu Tahun, Dengan Tujuan MenJadi Profesional Di Bidang Masing-Masing.
 
 ---
 
