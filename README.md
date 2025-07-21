@@ -21,50 +21,48 @@ Halo! Saya FAI, Seorang Anak Umur 16 Tahun Yang Suka MemPelajari AI Crypto Dan J
 Ini Adalah Kumpulan Tools Yang Saya Gunakan Dan Dalami Selama PerJalanan Ini:
 
 <details>
-<summary>🤖 **Humanoid Robotics Engineering**</summary>
+<summary>🤖 Humanoid Robotics Engineering</summary>
 <br>
-
-**Mindset:** "Pembangun Sistem Fisik" - Suka melihat kode menghasilkan gerakan fisik dan mampu mengintegrasikan banyak disiplin ilmu.
 
 #### 🎓 Fondasi Pengetahuan & Keahlian Inti
 **Teknik Mesin:**
-* **Kinematika & Dinamika:** Matematika di balik gerakan robot.
-* **Desain Mekanis (CAD):** Merancang komponen robot menggunakan software seperti **SolidWorks** atau **Fusion 360**.
+* **Kinematika & Dinamika:** Matematika Di Balik Gerakan Robot.
+* **Desain Mekanis (CAD):** MeRancang Komponen Robot Menggunakan Software Seperti **SolidWorks** Atau **Fusion 360**.
 
 **Teknik Elektro:**
-* **Sensor & Persepsi:** Memahami cara kerja kamera, LiDAR, IMU (sensor keseimbangan).
-* **Aktuator & Kontrol:** Mengontrol motor untuk menghasilkan gerakan yang presisi.
-* **Sistem Tertanam (Embedded Systems):** Bekerja dengan mikrokontroler (**Arduino, STM32**) dan komputer mini (**Raspberry Pi, NVIDIA Jetson**).
+* **Sensor & Persepsi:** Memahami Cara Kerja Kamera, LiDAR, IMU (Sensor Keseimbangan).
+* **Aktuator & Kontrol:** Mengontrol Motor Untuk MengHasilKan Gerakan Yang Presisi.
+* **Sistem TerTanam (Embedded Systems):** Bekerja Dengan MikroKontroler (**Arduino, STM32**) Dan Komputer Mini (**Raspberry Pi, NVIDIA Jetson**).
 
 **Ilmu Komputer:**
-* **Algoritma & Struktur Data:** Fondasi untuk *path planning* dan pemecahan masalah.
-* **AI & Machine Learning:** Memberi kecerdasan pada robot, terutama untuk navigasi dan pembelajaran.
-* **Visi Komputer (Computer Vision):** Memungkinkan robot "melihat" dan mengenali objek.
-* **SLAM (Simultaneous Localization and Mapping):** Algoritma agar robot bisa membuat peta dan tahu lokasinya sendiri.
+* **Algoritma & Struktur Data:** Fondasi Untuk *Path Planning* Dan Pemecahan Masalah.
+* **AI & Machine Learning:** MemBeri Kecerdasan Pada Robot, TerUtama Untuk Navigasi Dan PemBelajaran.
+* **Visi Komputer (Computer Vision):** MeMungkinKan Robot "Melihat" Dan Mengenali Objek.
+* **SLAM (Simultaneous Localization And Mapping):** Algoritma Agar Robot Bisa MemBuat Peta Dan Tahu LokasiNya Sendiri.
 
 #### 💻 Bahasa Pemrograman
-* **C++:** **Wajib.** Standar industri untuk kontrol hardware berkecepatan tinggi dan performa *real-time*.
-* **Python:** **Wajib.** Untuk pengembangan tingkat tinggi, AI, Machine Learning, dan prototyping cepat.
-* **MATLAB:** Berguna untuk riset, simulasi, dan pemodelan sistem kontrol.
+* **C++:** **Wajib.** Standar Industri Untuk Kontrol Hardware BerKecepatan Tinggi Dan Performa *Real-Time*.
+* **Python:** **Wajib.** Untuk Pengembangan Tingkat Tinggi, AI, Machine Learning, Dan Prototyping Cepat.
+* **MATLAB:** BerGuna Untuk Riset, Simulasi, Dan Pemodelan Sistem Kontrol.
 
 #### 🛠️ Perangkat & Framework
-* **ROS (Robot Operating System):** **Wajib Dikuasai.** Terutama **ROS 2** yang merupakan standar industri masa depan.
+* **ROS (Robot Operating System):** **Wajib DiKuasai.** Terutama **ROS 2** Yang Merupakan Standar Industri Masa Depan.
 * **Simulator:**
-    * **Gazebo:** Simulator 3D yang terintegrasi baik dengan ROS.
-    * **PyBullet / MuJoCo:** Untuk simulasi fisika cepat, bagus untuk melatih AI.
+    * **Gazebo:** Simulator 3D Yang TerIntegrasi Baik Dengan ROS.
+    * **PyBullet / MuJoCo:** Untuk Simulasi Fisika Cepat, Bagus Untuk Melatih AI.
 * **Software CAD:** SolidWorks, Autodesk Inventor, Fusion 360.
-* **Platform AI:** NVIDIA Isaac Sim (untuk simulasi fotorealistik).
+* **Platform AI:** NVIDIA Isaac Sim (Untuk Simulasi Fotorealistik).
 
 #### 📜 Pendidikan & Sertifikasi
-* **Pendidikan Formal:** S1 Teknik Mekatronika (paling ideal), Teknik Mesin, Teknik Elektro, atau Ilmu Komputer.
-* **Studi Lanjutan:** S2/S3 sering menjadi syarat untuk posisi R&D (Penelitian & Pengembangan).
-* **Kursus Online:** Spesialisasi dari Coursera ("Modern Robotics") atau edX ("Professional Certificate in Building Robots").
+* **Pendidikan Formal:** S1 Teknik Mekatronika (Paling Ideal), Teknik Mesin, Teknik Elektro, Atau Ilmu Komputer.
+* **Studi Lanjutan:** S2/S3 Sering MenJadi Syarat Untuk Posisi R&D (Penelitian & Pengembangan).
+* **Kursus Online:** Spesialisasi Dari Coursera ("Modern Robotics") Atau edX ("Professional Certificate In Building Robots").
 
 #### 🚀 Proyek Portofolio (Wajib Ada)
-* Membangun robot beroda yang bisa memetakan ruangan menggunakan SLAM.
-* Membuat lengan robotik yang bisa mengambil dan memindahkan barang (*pick-and-place*) menggunakan kamera.
-* Membuat simulasi robot berkaki empat (*quadruped*) yang bisa berjalan stabil.
-* **PENTING:** Dokumentasikan semua proyek di GitHub dengan video demo.
+* MemBangun Robot BeRoda Yang Bisa MeMetakan Ruangan Menggunakan SLAM.
+* MemBuat Lengan Robotik Yang Bisa Mengambil Dan Memindahkan Barang (*Pick-And-Place*) Menggunakan Kamera.
+* MemBuat Simulasi Robot BerKaki Empat (*Quadruped*) Yang Bisa BerJalan Stabil.
+* **PENTING:** DokumentasiKan Semua Proyek Di Github Dengan Video Demo.
 
 </details>
 
