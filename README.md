@@ -2,13 +2,17 @@
 
 AI & Crypto & CyberSecurity
 
-Selamat Datang Di Repositori Dokumentasi PerJalanan Saya! Repositori Ini Adalah "Buku Harian" Publik Saya Dalam Mempelajari Tiga Bidang Teknologi Paling Menarik Secara Intensif Selama Satu Tahun, Dengan Tujuan Menjadi Profesional Di Masing-Masing Bidang.
+Selamat Datang Di Repositori Dokumentasi PerJalanan Saya! Repositori Ini Adalah "Buku Harian" Publik Saya Dalam MemPelajari Tiga Bidang Teknologi Yaitu AI Crypto Dan CyberSecurity Selama Satu Tahun, Dengan Tujuan MenJadi Profesional Di Masing-Masing Bidang.
 
 ---
 
 ### 👨‍💻 **Tentang Saya**
 
-Halo! Saya **FAI**, Seorang Pembelajar Teknologi Yang Punya Antusiasme Tinggi Terhadap Pemecahan Masalah. Saya Percaya Bahwa Penguasaan Lintas Disiplin Adalah Kunci Untuk Inovasi Di Masa Depan. Perjalanan Ini Adalah Bukti Komitmen Dan Disiplin Saya Untuk Bertumbuh Dari Nol Menjadi Profesional Yang Siap Berkontribusi.
+![Statistik GitHub sevenx365](https://github-readme-stats.vercel.app/api?username=sevenx365&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevenx365&layout=compact&langs_count=8&theme=dracula)
+
+Halo! Saya FAI, Seorang Anak Umur 16 Tahun Yang Suka MemPelajari Tentang AI Crypto Dan Juga CyberSecurity Yang Punya Antusiasme Tinggi Terhadap Pemecahan Masalah. Saya Percaya Bahwa Penguasaan Lintas Disiplin Adalah Kunci Untuk Inovasi Di Masa Depan. Perjalanan Ini Adalah Bukti Komitmen Dan Disiplin Saya Untuk Bertumbuh Dari Nol Menjadi Profesional Yang Siap Berkontribusi.
 
 ---
 
