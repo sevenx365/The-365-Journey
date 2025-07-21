@@ -159,3 +159,25 @@ Ini Adalah Kumpulan Tools Yang Saya Gunakan Dan Dalami Selama PerJalanan Ini:
 ### 📂 **Struktur Repositori**
 
 Repositori Ini DiSusun BerDasarKan Fase Dan Minggu PemBelajaran:
+
+The-365-Journey/
+├── 🤖-AI-Robotics/
+│   ├── Week-01_Python-Fundamentals/
+│   ├── Week-04_Advanced-ML-Models/
+│   └── Week-07_Project-Robotic-Arm/
+│   └── Week-10_Portfolio-Humanoid-RL/
+│
+├── 🪙-Crypto-Blockchain/
+│   ├── Week-02_Blockchain-Fundamentals/
+│   ├── Week-05_DeFi-Analysis/
+│   └── Week-08_Project-Portfolio-Dashboard/
+│   └── Week-11_Portfolio-Research-Report/
+│
+├── 🛡️-Cybersecurity-Reverse-Engineering/
+│   ├── Week-03_Linux-RE-Tools/
+│   ├── Week-06_Exploit-Development/
+│   └── Week-09_Project-CTF-Writeups/
+│   └── Week-12_Portfolio-Protocol-RE/
+│
+└── assets/
+└── (Untuk Menyimpan Gambar & GIF)
