@@ -8,17 +8,17 @@ Selamat Datang Di Repositori Dokumentasi PerJalanan Saya! Repositori Ini Adalah 
 
 ### 👨‍💻 **Tentang Saya**
 
-[![Statistik GitHub SevenX365](https://github-readme-stats.vercel.app/api?username=sevenx365&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/sevenx365)
+[![Statistik Github sevenx365](https://github-readme-stats.vercel.app/api?username=sevenx365&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/sevenx365)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevenx365&layout=compact&langs_count=8&theme=dark)](https://github.com/sevenx365)
 
-Halo! Saya FAI, Seorang Anak Umur 16 Tahun Yang Suka MemPelajari Tentang AI Crypto Dan Juga CyberSecurity Yang Punya Antusiasme Tinggi Terhadap Pemecahan Masalah. Saya Percaya Bahwa Penguasaan Lintas Disiplin Adalah Kunci Untuk Inovasi Di Masa Depan. Perjalanan Ini Adalah Bukti Komitmen Dan Disiplin Saya Untuk Bertumbuh Dari Nol Menjadi Profesional Yang Siap Berkontribusi.
+Halo! Saya FAI, Seorang Anak Umur 16 Tahun Yang Suka MemPelajari AI Crypto Dan Juga CyberSecurity.
 
 ---
 
-### 🛠️ **Tumpukan Teknologi & Keterampilan (Tech Stack & Skills)**
+### 🛠️ ** Tools & Keterampilan (Tech Stack & Skills) **
 
-Ini Adalah Kumpulan Tools Dan Teknologi Utama Yang Saya Gunakan Dan Dalami Selama Perjalanan Ini:
+Ini Adalah Kumpulan Tools Yang Saya Gunakan Dan Dalami Selama PerJalanan Ini:
 
 **Bahasa Pemrograman:**
 <p align="left">
@@ -48,5 +48,4 @@ Ini Adalah Kumpulan Tools Dan Teknologi Utama Yang Saya Gunakan Dan Dalami Selam
 
 ### 📂 **Struktur Repositori**
 
-Untuk Menjaga Semuanya Tetap Rapi, Repositori Ini Disusun Berdasarkan Fase Dan Minggu Pembelajaran:
-
+Repositori Ini DiSusun BerDasarKan Fase Dan Minggu PemBelajaran:
