@@ -58,11 +58,10 @@ Ini Adalah Kumpulan Tools Yang Saya Gunakan Dan Dalami Selama PerJalanan Ini:
 * **Studi Lanjutan:** S2/S3 Sering MenJadi Syarat Untuk Posisi R&D (Penelitian & Pengembangan).
 * **Kursus Online:** Spesialisasi Dari Coursera ("Modern Robotics") Atau edX ("Professional Certificate In Building Robots").
 
-#### 🚀 Proyek Portofolio (Wajib Ada)
+#### 🚀 Proyek Portofolio
 * MemBangun Robot BeRoda Yang Bisa MeMetakan Ruangan Menggunakan SLAM.
 * MemBuat Lengan Robotik Yang Bisa Mengambil Dan Memindahkan Barang (*Pick-And-Place*) Menggunakan Kamera.
 * MemBuat Simulasi Robot BerKaki Empat (*Quadruped*) Yang Bisa BerJalan Stabil.
-* **PENTING:** DokumentasiKan Semua Proyek Di Github Dengan Video Demo.
 
 </details>
 
