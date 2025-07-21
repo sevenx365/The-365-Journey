@@ -142,7 +142,7 @@ Ini Adalah Kumpulan Tools Yang Saya Gunakan Dan Dalami Selama PerJalanan Ini:
     * **GREM (GIAC Reverse Engineering Malware):** Standar Emas Untuk Analisis Malware.
     * **Sertifikasi OffSec:** Seperti **OSCE** Atau **OSEP** Yang MemBuktiKan Kemampuan *Exploit Development*.
 
-#### 🚀 Proyek Portofolio (Wajib Ada)
+#### 🚀 Proyek Portofolio
 * BerPartisipasi Aktif Dalam Kompetisi **Capture The Flag (CTF)**, Khususnya Kategori **Reverse Engineering** Dan **pwn**.
 * **MENULIS WRITE-UP!** Ini Adalah Hal TerPenting. Setelah Menyelesaikan Tantangan CTF, Tulis Laporan Detail Langkah-Demi-Langkah Tentang Cara Anda Menyelesaikannya Dan PublikasiKan Di Blog/GitHub.
 * Melakukan Analisis Sederhana Pada Sampel Malware (Di Lingkungan Aman) Dan MenDokumentasiKan Temuannya.
