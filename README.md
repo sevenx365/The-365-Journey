@@ -103,7 +103,7 @@ Ini Adalah Kumpulan Tools Yang Saya Gunakan Dan Dalami Selama PerJalanan Ini:
     * **CFA (Chartered Financial Analyst):** Sangat DiHargai Dari Keuangan Tradisional.
     * **CCFE (Certified Crypto Finance Expert):** Sertifikasi Modern Yang Sangat Relevan.
 
-#### 🚀 Proyek Portofolio (Wajib Ada)
+#### 🚀 Proyek Portofolio
 * MemBuat Dan MemPublikasiKan Dashboard Analisis Di Dune Analytics.
 * MeNulis Laporan Riset MenDalam Tentang Sebuah Protokol Kripto Dan MemPublikasikanNya Di Medium/Substack.
 * Melakukan *BackTesting* Sebuah Strategi PerDagangan Menggunakan Python Dan Data Historis.
