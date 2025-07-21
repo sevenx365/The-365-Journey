@@ -112,7 +112,7 @@ Ini Adalah Kumpulan Tools Yang Saya Gunakan Dan Dalami Selama PerJalanan Ini:
 </details>
 
 <details>
-<summary>🕵️ Reverse Engineer</summary>
+<summary>🕵️ Reverse Engineering</summary>
 <br>
 
 #### 🎓 Fondasi Pengetahuan & Keahlian Inti
@@ -158,37 +158,37 @@ Repositori Ini DiSusun BerDasarKan Fase Dan Minggu PemBelajaran:
 
 The-365-Journey/
 <br>
-├── 🤖-Humanoid Robotics Engineering/
+├── 🤖 Humanoid Robotics Engineering/
 <br>
-│   ├── Week-01_Python-Fundamentals/
+│   ├── Week-01/
 <br>
-│   ├── Week-04_Advanced-ML-Models/
+│   ├── Week-04/
 <br>
-│   └── Week-07_Project-Robotic-Arm/
+│   └── Week-07/
 <br>
-│   └── Week-10_Portfolio-Humanoid-RL/
-<br>
-│
-├── 🪙-Crypto-Blockchain/
-<br>
-│   ├── Week-02_Blockchain-Fundamentals/
-<br>
-│   ├── Week-05_DeFi-Analysis/
-<br>
-│   └── Week-08_Project-Portfolio-Dashboard/
-<br>
-│   └── Week-11_Portfolio-Research-Report/
+│   └── Week-10/
 <br>
 │
-├── 🛡️-Cybersecurity-Reverse-Engineering/
+├── 🪙 Crypto Analyst/
 <br>
-│   ├── Week-03_Linux-RE-Tools/
+│   ├── Week-02/
 <br>
-│   ├── Week-06_Exploit-Development/
+│   ├── Week-05/
 <br>
-│   └── Week-09_Project-CTF-Writeups/
+│   └── Week-08/
 <br>
-│   └── Week-12_Portfolio-Protocol-RE/
+│   └── Week-11/
+<br>
+│
+├── 🛡️ Reverse Engineering/
+<br>
+│   ├── Week-03/
+<br>
+│   ├── Week-06/
+<br>
+│   └── Week-09/
+<br>
+│   └── Week-12/
 <br>
 │
 └── assets/
