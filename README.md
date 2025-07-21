@@ -192,4 +192,3 @@ The-365-Journey/
 <br>
 │
 └── assets/
-└── (Untuk Menyimpan Gambar & GIF)
